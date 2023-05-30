@@ -1,0 +1,5 @@
+work/*
+!work/out/
+*.swp
+*.pyc
+.vs
