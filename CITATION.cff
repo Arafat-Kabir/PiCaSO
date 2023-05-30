@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'PiCaSO : A Scalable and Fast PIM Overlay'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: MD Arafat
+    family-names: Kabir
+    email: arafat.sun@gmail.com
+    name-particle: MD ARAFAT
+    affiliation: University of Arkansas
+    orcid: 'https://orcid.org/0000-0002-9920-2985'
+repository-code: 'https://github.com/Arafat-Kabir/PiCaSO'
+license: MIT
