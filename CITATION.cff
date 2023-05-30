@@ -8,8 +8,7 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: MD Arafat
-    family-names: Kabir
+  - given-names: MD Arafat Kabir
     email: arafat.sun@gmail.com
     affiliation: University of Arkansas
     orcid: 'https://orcid.org/0000-0002-9920-2985'
