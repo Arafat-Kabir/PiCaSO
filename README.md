@@ -60,7 +60,7 @@ To run the makefile commands under the "work" directory following tools are need
 
 <span style="display: inline-flex; align-items: center;">
   <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955820&HistoricalAwards" target="_blank" style="text-decoration: none;">
-    <img src="/assets/images/NSF_logo.png" alt="NSF Logo" style="width: 60px; height: 60px; margin-right: 10px;">
+    <img src="/asset/NSF_logo.png" alt="NSF Logo" style="width: 60px; height: 60px; margin-right: 10px;">
   </a>
   <span style="display: inline-block; vertical-align: middle;">
     The development of PiCaSO is supported by National Science Foundation under 
