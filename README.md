@@ -61,7 +61,7 @@ To run the makefile commands under the "work" directory following tools are need
 
 The development of PiCaSO is supported by National Science Foundation under 
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955820&HistoricalAwards" target="_blank">Grant No. 1955820</a>.
-<br>
+<br><br>
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955820&HistoricalAwards" target="_blank" style="text-decoration: none;">
     <img src="/asset/NSF_logo.png" alt="NSF Logo" style="width: 100px; height: 100px; margin-right: 10px;">
 </a>
