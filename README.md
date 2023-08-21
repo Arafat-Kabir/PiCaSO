@@ -23,7 +23,10 @@ several key features of the PiCaSO overlay can be integrated into
 the custom PIM designs to further improve their throughput by
 18%, latency by 19.5%, and memory efficiency by 6.2%.
 
-**Full Paper** : < Coming Soon >
+## Publications
+- MD Arafat Kabir, Ehsan Kabir, Joshua Hollis, Eli Levy-Mackay, Atiyehsadat Panahi, Jason Bakos, Miaoqing Huang, and David Andrews, "FPGA Processor In Memory Architectures (PIMs): Overlay or Overhaul?" The 33rd International Conference on Field-Programmable Logic and Applications (FPL 2023), pp. 1-7, September 2023. [arXiv](https://doi.org/10.48550/arXiv.2308.03914)
+- MD Arafat Kabir, Joshua Hollis, Atiyehsadat Panahi, Jason Bakos, Miaoqing Huang, and David Andrews, "Making BRAMs Compute: Creating Scalable Computational Memory Fabric Overlays," The 31st IEEE International Symposium On Field-Programmable Custom Computing Machines (FCCM 2023), pp. 1-1, May 2023. [IEEE](https://doi.org/10.1109/FCCM57271.2023.00052)
+[PDF](http://turing.uark.edu/~makabir/files/shared/pub/fccm-2023-poster.pdf)
 
 ## Directory Structure
 
